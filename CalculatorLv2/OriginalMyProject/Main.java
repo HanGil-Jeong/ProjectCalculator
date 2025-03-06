@@ -1,4 +1,4 @@
-package CalculatorLv2;
+package CalculatorLv2.OriginalMyProject;
 
 import java.util.ArrayList;
 import java.util.Scanner;
@@ -67,7 +67,4 @@ public class Main {
             }
         }
     }
-
-
 }
-

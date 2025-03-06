@@ -1,4 +1,4 @@
-package CalculatorLv2;
+package CalculatorLv2.OriginalMyProject;
 
 import java.util.ArrayList;
 
@@ -50,6 +50,4 @@ public class Calculator {
     public void removeList(Integer removeResult) {
         results.remove(removeResult);
     }
-
-
 }
